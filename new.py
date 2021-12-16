@@ -1,3 +1,3 @@
 name='Nikita'
-M	new.py
+print(name)
 
