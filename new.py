@@ -1,2 +1,2 @@
-"New line"
-print('Hello world')
+name='Nikita'
+print(name)
